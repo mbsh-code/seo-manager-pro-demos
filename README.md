@@ -21,9 +21,9 @@ Supports:
 
 | Demo Type     | Framework      | Preview / Usage |
 |---------------|----------------|------------------|
-| Angular       | Angular 15+     | [`angular-demo/`](./angular-demo) |
-| React         | React 18 + React Router | [`react-demo/`](./react-demo) |
-| JavaScript    | Vanilla JS + HTML | [`js-demo/`](./js-demo) |
+| Angular       | Angular 15+     | [`angular-demo/`](https://github.com/mbsh-code/seo-manager-pro-demos/tree/main/angular-demo) |
+| React         | React 18 + React Router | [`react-demo/`](https://github.com/mbsh-code/seo-manager-pro-demos/tree/main/react-demo) |
+| JavaScript    | Vanilla JS + HTML | [`js-demo/`](https://github.com/mbsh-code/seo-manager-pro-demos/tree/main/js-demo) |
 
 Each folder contains a minimal project showing how to integrate and use the package effectively.
 
